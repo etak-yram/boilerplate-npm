@@ -3,6 +3,7 @@
 	"author": "MK MacPhee",
 	"description": "Learning",
 	"keywords": [ "freecodecamp", "related" ],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
