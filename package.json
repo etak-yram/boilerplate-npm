@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "MK MacPhee",
 	"description": "Learning",
-	"keywords": [ "descriptive", "related", "words" ],
+	"keywords": [ "freecodecamp", "related" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
