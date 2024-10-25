@@ -1,7 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "MK MacPhee",
-	"description": "An app to learn back end",
+	"description": "Learning",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
